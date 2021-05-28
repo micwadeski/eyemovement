@@ -1,4 +1,4 @@
-# Pacman Factory
+# Eye Movement
 
 ![Eye Movement](https://micwadeski.github.io/assets/images/development/eyes.jpg)
 
