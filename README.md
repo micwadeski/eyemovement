@@ -4,7 +4,7 @@
 
 ## Description
 
-This is a coding exercise assigned through the MIT xPro "Professional Certificate in Coding: Full Stack Development with MERN" course. The point of the exercise is to have two eyes in the middle of the screen that mimic and follow the movement of the mouse on the screen.
+This is a coding exercise assigned through the MIT xPro "Professional Certificate in Coding: Full Stack Development with MERN" course. The point of the exercise is to have two eyes in the middle of the screen that mimic and follow the movement of the mouse on the screen. This is done through JavaScript events that trigger DOM manipulation. The event that triggers the JavaScript is mouse movement, and the element being manipulated on the DOM in response to that is the eyes.
 
 ## Installation
 
@@ -12,9 +12,7 @@ Click the green "Code" button and download the .zip folder containing the repo t
 
 ## Usage
 
-* When you click the "Add PacMan" button, a new pacman should appear at a random position within the top left corner of the screen.
-* When you click the "Start Game" button, the pacman or pacmen created should start moving at random velocity on the screen.
-* When a given pacman hits the edge of the screen, it should change position to stay within the frame of the web page.
+Simply open up the index.html file and experiment by moving the mouse around on the page, the eyes will then follow your mouse movement.
 
 ## Support
 
@@ -22,11 +20,10 @@ I can be reached via email at micwadeski@gmail.com, or connect with me on Linked
 
 ## Roadmap
 
-* Set up a maze type environment that the pacman or pacmen can navigate through
-* Modify the styling to further resemble that 8-bit, arcade game style
-* Allow Pacman to be controlled by using the direction pad of the keyboard.
-* Create dots that pacman has to eat as he makes it through the maze.
-* At the end of the maze, have the pacman eat cherries, that cause the game to reset to a new, more difficult level.
+* Create a more detailed illustration, maybe give the face teeth, a nose, some hair and other features that make it more fun.
+* Create more event triggered elements, like a tongue that will lick up everytime the mouse is physically clicked.
+* Make the eyes blink ever 5 seconds.
+* Make the mouth yawn every 15 seconds.
 
 ## License Information
 
