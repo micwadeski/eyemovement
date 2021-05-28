@@ -2,11 +2,9 @@
 
 ![Eye Movement](https://micwadeski.github.io/assets/images/development/eyes.jpg)
 
-This is an exercise designed to create Pacmen and send them through digital time and space at random directions and velocities.
-
 ## Description
 
-This is a coding exercise assigned through the MIT xPro "Professional Certificate in Coding: Full Stack Development with MERN" course. The purpose of this exercise was to simulate an incredibly simplified version of the Pacman arcade game using HTML, CSS, JavaScript, array manipulation and DOM manipulation.
+This is a coding exercise assigned through the MIT xPro "Professional Certificate in Coding: Full Stack Development with MERN" course. The point of the exercise is to have two eyes in the middle of the screen that mimic and follow the movement of the mouse on the screen.
 
 ## Installation
 
